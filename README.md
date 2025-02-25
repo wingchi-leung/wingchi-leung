@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I am wingchi! 👋
 
  I am currently building my website and demo :
 
