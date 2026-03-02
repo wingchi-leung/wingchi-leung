@@ -8,4 +8,9 @@
 
 [ 🎯 一个时间块网站，专注让人们规划一天，专注工作]( https://www.chronono.org/ )
 
+
+[ 🧰 我的skills hub ](https://github.com/wingchi-leung/how-to-skills-hub )
+
+
+
 I am learning AI , hopefully I can build more and more.
