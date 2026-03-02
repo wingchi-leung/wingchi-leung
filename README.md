@@ -1,11 +1,11 @@
-## Hi there I am wingchi! 👋
+## Hi 我是wingchi!  👋
 
- I am currently building some funny and learning webstie ,hope you can enjoy it~ 
+正在构建不同的小应用，期望你能玩的开心~ 
 
- [🙂a fun bubble-text website](https://bubble-text.fun/ ) 
+ [🙂 markdown 转小红书/小绿书图文](https://rednote-maker-two.vercel.app/ ) 
 
-[ 🌍a 3d earth display game]( https://pixel-earth.pages.dev/     )
+[ 🌍 一个3d地球的互动小装置 ]( https://pixel-earth.pages.dev/     )
 
-[ 🎯a claude skills resource hub](https://www.claudeskill.top/)
+[ 🎯 一个时间块网站，专注让人们规划一天，专注工作]( https://www.chronono.org/ )
 
 I am learning AI , hopefully I can build more and more.
